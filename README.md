@@ -1,0 +1,2 @@
+# bottodogu
+Crypto Trading Bot
